@@ -1,8 +1,6 @@
 # Facial Detection, Recognition and Emotion Detection
 
-
-
-![](https://mirlab.org:444/demo/emotionclassification/images/20180901150822_new.jpg)
+<img src="test_images/20180901150822_new.jpg" alt="index1" width="300" height= "0.2" />
 
 
 
