@@ -76,7 +76,7 @@ Similarly,  let us consider an image of a different person(Image3) and compare i
 
 ###### Image3
 
-![](/home/apeksha/Desktop/Apeksha-backup/Work_Pers/face_emotion_detection/face_and_emotion_detection/test_images/rajeev.jpg)
+![](test_images/rajeev.jpg)
 
 The  same is done for Image1 and Image3 which are the images of two persons  and the result returned after comparison is "False" denoting the two  images are not recognized as same.
 
@@ -104,7 +104,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
    The model was tested with sample images. It can be seen below:
 
-   ![](/home/apeksha/Desktop/Apeksha-backup/Work_Pers/face_emotion_detection/face_and_emotion_detection/test_images/39.jpg)
+   ![](test_images/39.jpg)
 
    The image shows the emotion of "Surprise"
 
