@@ -49,7 +49,7 @@ Let us understand by seeing the images below
 ###### Image1
 
 
-<img src="test_images/index1.jpg"  width="200" height= "0.2" />
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/leonardo-dicaprio-at-the-beverly-wilshire-hotel-in-beverly-news-photo-98152663-1540332414.jpg"  width="200" height= "0.2" />
 
 
 ###### Image2
