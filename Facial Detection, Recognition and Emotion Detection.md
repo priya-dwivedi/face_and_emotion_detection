@@ -56,7 +56,7 @@ Let us understand by seeing the images below
 
 ![](data:image/jpeg;base64,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)
 
-The  face_recognition library compares the the two faces and returns the result as "True"  stating that two images having different pose are recognized as same
+The  face_recognition library compares the above two faces and returns the result as "True"  stating that two images having different pose are recognized as same
 
 The below snippet shows how to use the face_recognition library for recognizing faces.
 
@@ -86,7 +86,7 @@ The  same is done for Image1 and Image3 which are the images of two persons  and
 
 ### Emotion Detection
 
-Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. The above topic talks about building a model which can detect an emotion from an image. So there are key points to be followed
+Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. The above topic talks about building a model which can detect an emotion from an image. There key points to be followed are:
 
 1. Data gathering and  augmentation
 
@@ -108,7 +108,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
    The image shows the emotion of "Surprise"
 
-   Let us see the result of the model trained:
+   Let us see the prediction of the model trained:
 
    
 
@@ -139,7 +139,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 ### Conclusion:
 
-​	We can clearly see the wonders of AI in facial recognition. The amazing python library of 			  face_recognition, pretrained  deep learning models and open-cv  have already gained so much performance and have made our life easier. There are lots of other materials that are helpful and bring into picture different approaches used in achieving the same goal. 
+​	We can clearly see the wonders of AI in facial recognition. The amazing python library of 			  face_recognition, pretrained  deep learning models and open-cv  have already gained so much performance and have made our life easier. There are lots of other materials that are helpful and bring into picture different approaches used in achieving the same goal.
 
 You can see the full code on the following github link:
 
