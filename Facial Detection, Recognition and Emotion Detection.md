@@ -1,6 +1,6 @@
 # Facial Detection, Recognition and Emotion Detection
 
-<img src="test_images/20180901150822_new.jpg" alt="index1" width="300" height= "0.2" />
+<img src="test_images/20180901150822_new.jpg" width="300" height= "0.2" />
 
 
 
@@ -49,12 +49,12 @@ Let us understand by seeing the images below
 ###### Image1
 
 
-<img src="test_images/index1.jpg" alt="index1" width="200" height= "0.2" />
+<img src="test_images/index1.jpg"  width="200" height= "0.2" />
 
 
 ###### Image2
 
-<img src="test_images/index2.jpeg" alt="index1" width="200" height= "0.2" />
+<img src="test_images/index2.jpeg"  width="200" height= "0.2" />
 
 The  face_recognition library compares the above two faces and returns the result as "True"  stating that two images having different pose are recognized as same
 
