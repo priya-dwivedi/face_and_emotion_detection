@@ -106,7 +106,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
    The model was tested with sample images. It can be seen below:
 
-   ![](test_images/39.jpg)
+   <img src="test_images/39.jpg" alt="index1" width="200" height= "0.2" />
 
    The image shows the emotion of "Surprise"
 
